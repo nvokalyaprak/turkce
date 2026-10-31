@@ -1,4 +1,4 @@
-const C = 'tt-v1';
+const C = 'tt-v2';
 const FILES = ['./', 'index.html', 'manifest.webmanifest', 'icon.svg'];
 
 self.addEventListener('install', e => {
